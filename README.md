@@ -23,8 +23,6 @@ Welcome to my GitHub! I’m Chris, a relentless innovator and engineer deeply im
 - Shoot me an email at chris.dsilva@rutgers.edu
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/chris-dsilva)
 
-## 😄 Pronouns: He/Him
-
 ## ⚡ Fun fact: ...
 
 - Beyond the digital world, I find my zen in hiking and landscape photography. It's all about finding those untouched places where nature tells its best stories.
