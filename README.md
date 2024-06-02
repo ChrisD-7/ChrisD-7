@@ -7,3 +7,5 @@ I'm Chris D'Silva, an engineer whose work spans Industrial and Systems Engineeri
   
 ⚡ Fun fact
 Beyond the digital world, I find my zen in hiking and landscape photography. It's all about finding those untouched places where nature tells its best stories.
+
+![](https://komarev.com/ghpvc/?username=ChrisD-7&color=green)
